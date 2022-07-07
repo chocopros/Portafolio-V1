@@ -294,9 +294,9 @@ h5{
 	cursor: pointer;
 }
 
-/****************/
+/************************************/
 /** CONTACT-ME WHATSAPP TELEGRAM **/
-/**************/
+/**********************************/
 
 .contact-me{
 	width: 100%;
@@ -322,7 +322,7 @@ h5{
 	height: 300px;
 	width: auto;
 	gap: 70px;
-	border: solid 1px white;
+	/* border: solid 1px white; */
 
 }
 
